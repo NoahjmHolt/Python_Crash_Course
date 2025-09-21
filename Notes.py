@@ -53,7 +53,6 @@ No skipping ahead. the basics are most important
 # forgot pycharm is weird and if there is no space in front of the
 # start of the words, it throws a spelling error (**cough cough** dumb **cough cough**)
 '''
-
 Chapter 1: Python install and Hello world
 
 installing is easy, you can go to python.org or just search on Mac (which I am on) for your python version
