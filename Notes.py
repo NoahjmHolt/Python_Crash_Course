@@ -10,6 +10,13 @@ Will included the prompts once things begin getting complicated
 Lastly, maybe steps taken to complete, mindset throughout the process
 and maybe errors ran into and solutions found
 
+One thing I want to re-find that I couldnt after 5 minutes of google is
+sections for python, like commenting so that you can minimize and connect
+sections together.
+It works with these triple quote marks but I think there is a way to connect it
+for over comments and code and maybe over several functions
+Cant think of the proper name of it I guess so am struggling to find it.
+
 '''
 
 # outline of each chapter Top notes
