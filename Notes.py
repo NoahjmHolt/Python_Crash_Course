@@ -49,6 +49,28 @@ No skipping ahead. the basics are most important
 
 '''
 
+# Chap 6
+"""
+
+Chapter 6: Dictionaries
+
+This bit confused me a little in school so will read this chapter a little slower.
+
+"""
+
+# Chap 5
+'''
+
+Chapter 5: If Statements
+
+These work the same in basically every language so not sure if I will try or skim this chapter also
+
+it reminds that = is used to assign and == is used to check and returns a boolean
+
+goes over other comparitive operators but otherwise just about if statements, elif and else.
+
+'''
+
 # Chap 4
 '''
 
