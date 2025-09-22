@@ -48,6 +48,33 @@ fun projects to think through and change some views.
 No skipping ahead. the basics are most important
 
 '''
+# Chap 3
+'''
+
+Chapter 3: Intro to Lists
+
+a chapter about making and manipulating lists
+from what I remember, python treats all lists as dictionaries so lets see if that is right.
+
+'''
+
+
+# Chap 2
+'''
+
+Chapter 2: Variables and Simple Data Types
+
+what is a variable, what they hold, what can you do with them,
+and intro to data types for beginners.
+
+Im going to be honest, I read this chapter, it is about basic variables so I am skipping it,
+exercises include:
+    printing strings, doing different things with them.
+    adding ints or other math functions
+    same with floats and showing that the way they are stored as bits can cause weird things.
+    Otherwise nothing fancy
+
+'''
 
 # Chap 1
 # forgot pycharm is weird and if there is no space in front of the
@@ -62,13 +89,5 @@ for hello world, print is auto included so no extra libraries and can call outsi
 
 '''
 
-# Chap 2
-'''
 
-Chapter 2: Variables and Simple Data Types
-
-what is a variable, what they hold, what can you do with them,
-and intro to data types for beginners.
-
-'''
 
