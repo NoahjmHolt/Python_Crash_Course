@@ -48,6 +48,18 @@ fun projects to think through and change some views.
 No skipping ahead. the basics are most important
 
 '''
+
+# Chap 4
+'''
+
+Chapter 4: Working with lists
+
+This chap say it will teach how to loop through lists 
+
+'''
+
+
+
 # Chap 3
 '''
 
@@ -55,6 +67,13 @@ Chapter 3: Intro to Lists
 
 a chapter about making and manipulating lists
 from what I remember, python treats all lists as dictionaries so lets see if that is right.
+
+starts by stating that it is 0 indexed (not sure if any language isnt but there is probably 1 (maybe R?)
+There is .append, .insert, del, pop and other manipulations listed
+There is sort which does alphabetical or numerical order by default, think you can feed or define though
+len for length
+
+Nothing really to practice
 
 '''
 
