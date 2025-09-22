@@ -56,6 +56,18 @@ Chapter 4: Working with lists
 
 This chap say it will teach how to loop through lists 
 
+Shows a for loop to start and in python it is simple, For x in y:
+
+it reminds me that in python, the indentations it was matters for loops,
+instead of brackets like other languages, python has indented segments 
+that will end it when back on normal tab
+
+Goes into Tuples which I never learned or glazed over first time learning to code.
+
+    instead of [] it has ()
+    
+It recommends looking at something titled PEP 8 for styling recommendations for all python code
+
 '''
 
 
