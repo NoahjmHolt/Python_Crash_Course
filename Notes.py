@@ -47,7 +47,19 @@ fun projects to think through and change some views.
 
 No skipping ahead. the basics are most important
 
+
+I need to apologize, the line directly above this one says "No Skipping ahead"
+What have I done to chapters 2-6 so far?
+Skimmed and skipped.
+
+I will go back and do the end of chapter practices for each so that 
+I am less of a terrible person and can stick to my word.
+
+Sorry again... (to self)
+
 '''
+
+
 
 # Chap 6
 """
