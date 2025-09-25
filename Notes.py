@@ -47,8 +47,6 @@ fun projects to think through and change some views.
 
 No skipping ahead. the basics are most important
 
-TIY == Try It Yourself
-
 '''
 
 # Chap 6
