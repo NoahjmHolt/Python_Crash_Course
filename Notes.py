@@ -47,6 +47,7 @@ fun projects to think through and change some views.
 
 No skipping ahead. the basics are most important
 
+TIY == Try It Yourself
 
 I need to apologize, the line directly above this one says "No Skipping ahead"
 What have I done to chapters 2-6 so far?
