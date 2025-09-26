@@ -59,5 +59,5 @@ print(str(favorite_number) + ' is my favorite number')
 
 # 2-11
 # this was to "import this" in the python console
-# it prints out a little note from a creator of python 
+# it prints out a little note from a creator of python
 
