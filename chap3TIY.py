@@ -52,6 +52,12 @@ for famous in historical:
 '''
 
 # 3-8
+worldWonders = ['Brazil', 'Netherlands', 'Ireland', 'Spain', 'Andora']
 
-
+print(sorted(worldWonders))
+print(worldWonders)
+worldWonders.reverse()
+print(worldWonders)
+worldWonders.reverse()
+print(worldWonders)
 
