@@ -31,6 +31,24 @@ Errors and fixes
 
 '''
 
+'''
+
+29/9/2025: 
+
+getting back into things has been a little harder than expected but think I have found the purpose for myself so 
+off to it once again.
+
+Wasn't doing the best to start just skimming the chapters but doing a little better now.
+
+Starting in Chap 6 I should be at a spot to slow down and try and really learn some things I didn't catch the
+first time learning in college.
+
+Chapter 4 and 5 to go still though so buckle up butter cup.
+
+Boot.dev has been very helpful to and very encouraging.
+
+'''
+
 # Notes and thoughts by chapter
 
 '''
