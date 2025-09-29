@@ -18,6 +18,12 @@ for za in pizza:
 
 print("Pizza is pretty versitile.")
 
+# 4-2
+animals = ["Polar bear", "Brown bear", "Sun bear", "Moon bear", "Panda bear", "Koala bear"]
+for bear in animals:
+    print(f"Well Forrest, there are all types of bear like {bear}...")
+
+print("all these animals are called bears")
 
 
 # Errors and fixes
