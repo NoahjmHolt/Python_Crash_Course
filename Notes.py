@@ -31,6 +31,22 @@ Errors and fixes
 
 '''
 
+
+'''
+
+6/10/2025: 
+
+Okay, looking over things last night and skimming through the chapters I am going to skip the next couple of them 
+after all. The dictionaries chapter is all things I have done recently through boot.dev so I am moving on to the 
+sections about funcs and testing.
+
+Testing is definitely one of my weak areas having not really been covered in school at all and so I have little
+to no exposure with it, I want to take an extra deep dive into that and move on to the projects and plan and see
+how I think I would do them compared to how others and the book.
+
+'''
+
+
 '''
 
 29/9/2025: 
